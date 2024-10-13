@@ -1,0 +1,9 @@
+us_east_1_ami = "ami-0866a3c8686eaeeba"
+us_east_1_default_vpc_id = "secret"
+default_subnet_cidr = "172.31.0.0/20"
+needed_sg_name = 'default-docker'
+needed_ec2_count = 2
+instance_type = 't2.micro'
+uploaded_key_pair_name = "secret"
+local_ssh_key = "secret"
+default_linux_user = "ubuntu"
